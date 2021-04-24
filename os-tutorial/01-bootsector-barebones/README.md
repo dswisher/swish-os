@@ -1,5 +1,5 @@
 
-[Main](https://github.com/cfenollosa/os-tutorial/tree/master/01-bootsector-barebones)
+[Tutorial](https://github.com/cfenollosa/os-tutorial/tree/master/01-bootsector-barebones)
 
 I could not get the supplied `boot_sect_simple.asm` to work.
 Looking at the article [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/), I switched to `boot1.asm`.
