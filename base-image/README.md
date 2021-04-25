@@ -11,7 +11,7 @@ My test scenario for QEMU is to run FreeDOS, per [this article](https://www.clou
 * `mkdir freedos && cd freedos`
 * `qemu-img create -f qcow2 image.img 200M`
 * `qemu-system-i386 -hda image.img -cdrom /test-isos/FD12CD.iso -boot order=dc -m 16M -curses -monitor telnet::45454,server,nowait`
-* Tinker, then another shell, `telnet localhost 45454` to access the [QEMU monitor](https://qemu-project.gitlab.io/qemu/system/monitor.html), and `quit` to stop the emulator.
+* Tinker, then in another shell, `telnet localhost 45454` to access the [QEMU monitor](https://qemu-project.gitlab.io/qemu/system/monitor.html), and `quit` to stop the emulator.
 
 Notes on the above command line:
 
