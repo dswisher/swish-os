@@ -17,8 +17,18 @@
 
 ## Boot Loader
 
+* [Realmode Assembly](https://0x00sec.org/tag/assembly)
+    * [Part 1](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-1/2901) - Theory and Concepts
+    * [Part 2](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-2/2992) - Hello World Bootloader
+    * [Part 3](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-3/3116) - Building & Running
+    * [Part 4](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-4/3317) - Basic Math OS - console interface
+* [Realmode Assembly - Writing bootable stuff - Part 2](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-2/2992)
 * [Writing My Own Boot Loader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld)
 * [Writing a Bootloader](https://infosecwriteups.com/writing-a-bootloader-931da062f25b) - .asm file includes the partition table!
+* Lecture 22: Operating Systems
+    * [part 1](http://staffwww.fullcoll.edu/aclifton/cs241/lecture-operating-systems-1.html) - basics
+    * [part 2](http://staffwww.fullcoll.edu/aclifton/cs241/lecture-operating-systems-2.html) - two-stage bootloader
+    * [part 3](http://staffwww.fullcoll.edu/aclifton/cs241/lecture-operating-systems-3.html) - protected mode setup
 * [Ian91/16bit-OS](https://github.com/Ian91/16bit-OS)
 * Hackaday [Write Your Own X86 Bootloader](https://hackaday.com/2017/10/23/write-your-own-x86-bootloader/)
 * [Lab 1: Booting a PC](https://read.seas.harvard.edu/~kohler/class/08w-aos/lab1.html) - tips on gdb usage within qemu
