@@ -22,7 +22,6 @@
     * [Part 2](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-2/2992) - Hello World Bootloader
     * [Part 3](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-3/3116) - Building & Running
     * [Part 4](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-4/3317) - Basic Math OS - console interface
-* [Realmode Assembly - Writing bootable stuff - Part 2](https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-2/2992)
 * [Writing My Own Boot Loader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld)
 * [Writing a Bootloader](https://infosecwriteups.com/writing-a-bootloader-931da062f25b) - .asm file includes the partition table!
 * Lecture 22: Operating Systems

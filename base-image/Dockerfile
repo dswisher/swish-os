@@ -3,6 +3,7 @@ FROM ubuntu:20.04
 RUN \
     apt-get -y update && \
     apt-get -y install \
+        gdb=9.2-0ubuntu1~20.04 \
         make=4.2.1-1.2 \
         nasm=2.14.02-1 \
         qemu=1:4.2-3ubuntu6.15 \
